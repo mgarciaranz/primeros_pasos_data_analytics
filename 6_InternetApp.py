@@ -11,7 +11,7 @@ import os.path
 
 #----------------------------------------------CONFIGURACIÓN DE PÁGINA ----------------------------------------------------------------------
 
-st.set_page_config(page_title="EL IMPACTO DE INTERNET: UNA PERSPECTIVA GLOBAL.", layout="wide") # después establecer el título de página, su layout e icono 
+st.set_page_config(page_title="Internet Revolution", layout="wide") # después establecer el título de página, su layout e icono 
 
 
 #---------------------------------------------- COSAS QUE PODEMOS USAR EN TODA NUESTRA APP----------------------------------------------------------------------
