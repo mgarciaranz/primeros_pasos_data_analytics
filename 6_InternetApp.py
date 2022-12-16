@@ -79,7 +79,7 @@ if choice == 'Introducción a la historia de Internet':
     with col2:
         st.subheader('''
             Inicio
-            Internet nace en **Estados Unidos**, durante los años de la Guerra Fría, como un proyecto militar para asegurar las comunicaciones entre diferentes puntos del territorioen caso de sufrir un ataque de la entonces URSS. En este contexto, en 1957, se organiza en Estados Unidos la Advanced Research Projects Agency conocida como ARPA. Sus investigaciones sobre redes descentralizadas y sistemas de comunicación inmunes a ataques externos, sentaron los fundamentos de lo que décadas más tarde sería conocido como Internet.
+            Internet nace en **Estados Unidos**, durante los años de la Guerra Fría, como un proyecto militar para asegurar las comunicaciones entre diferentes puntos del territorio en caso de sufrir un ataque de la entonces URSS. En este contexto, en 1957, se organiza en Estados Unidos la Advanced Research Projects Agency conocida como ARPA. Sus investigaciones sobre redes descentralizadas y sistemas de comunicación inmunes a ataques externos, sentaron los fundamentos de lo que décadas más tarde sería conocido como Internet.
             ''')
 
         st.subheader('''
@@ -235,10 +235,10 @@ elif choice == 'Análisis Regional con Power BI':
     st.markdown('<iframe title="AA_PowerBI_Regiones" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=01fff4cc-ed35-420c-aabc-3aae11b6d0e4&autoAuth=true&ctid=8aebddb6-3418-43a1-a255-b964186ecc64" frameborder="0" allowFullScreen="true"></iframe>',unsafe_allow_html=True)
     st.subheader('''
         ¿Existen países que no estén conectados a internet?
-        Internet ha supuesto una gran revolución, influyendo en un elevado número de aspectos de nuestra vida cotidiana. Y aunque muchos de nosotros no podemos imaginar nuestras vidas sin los servicios que brinda, hoy en día todavía hay países que no tienen acceso a Internet. A continuación. se enumeran aquellos que bloquean ciertos contenidos o tienen acceso a Internet muy limitado.
+        Internet ha supuesto una gran revolución, influyendo en un elevado número de aspectos de nuestra vida cotidiana. Y aunque muchos de nosotros no podemos imaginar nuestras vidas sin los servicios que brinda, hoy en día todavía hay países que no tienen acceso a internet. A continuación. se enumeran aquellos que bloquean ciertos contenidos o tienen acceso muy limitado.
         ''')
-    st.write('**China** : Tiene ek mayor numero de usuarios de internet en el mundo, pero con una censura extrema,  el gobierno ha implementando más de 60 regulaciones.')
-    st.write('**Cuba**: Internet se introdujo a finales de la década de 1990. No obstante, se estancó por varias razones, entre ellas la falta de financiamiento y las restricciones del gobierno.')
+    st.write('**China** : Tiene el mayor numero de usuarios de internet en el mundo, pero con una censura extrema,  el gobierno ha implementando más de 60 regulaciones.')
+    st.write('**Cuba**: Internet se introdujo a finales de la década de 1990. No obstante, su implantación se estancó por varias razones, entre ellas la falta de financiación y las restricciones del gobierno.')
     st.write('**Irán**: El gobierno restringe la velocidad de internet con el objetivo de frustrar a los usuarios y limitar sus comunicaciones. ')
     st.write('**Corea del Norte**: El acceso a internet está disponible, pero estrictamente limitado. ')
     st.write('**Arabia Saudita**: Algunos sitios web están bloqueados. Como ejemplo, desde el 2006 se bloqueó el acceso a Wikipedia y Google Translate ya que la gente los utilizaba para eludir los filtros que había colocado el gobierno')
